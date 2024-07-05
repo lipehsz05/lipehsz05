@@ -1,4 +1,4 @@
-## Opa!👋
+## Opa! eu sou o Felipe👋
 
 - 🔭 Trabalho com Frontend e automações de BOT.
 - 🌱 Atualmente estudando Python
