@@ -1,8 +1,8 @@
 ## Opa!👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+- 🔭 Trabalho com Frontend e automações de BOT.
+- 🌱 Atualmente estudando Python
+- 😄 Pronouns: Ele/Dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lipeh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
