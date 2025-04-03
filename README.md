@@ -1,7 +1,7 @@
 ## Opa! eu sou o Felipe👋
 
 - 🔭 Trabalho com Frontend e automações de BOT.
-- 🌱 Atualmente estudando Python
+- 🌱 Atualmente estudando Ciência da Computação
 - 😄 Pronouns: Ele/Dele
 
 <div style="display: inline_block"><br>
