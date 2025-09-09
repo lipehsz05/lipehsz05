@@ -25,21 +25,13 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lipehsz&show_icons=true&theme=radical&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipehsz&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lipehsz05&show_icons=true&theme=radical&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipehsz05&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com/?user=lipehsz&theme=radical&hide_border=false"/>
+  <img height="160em" src="https://streak-stats.demolab.com/?user=lipehsz05&theme=radical&hide_border=false"/>
 </div>
-
----
-
-### 🚀 Projetos em Destaque
-
-- 🔗 [**Bot Manager**](#) – Sistema multi-bot com gestão de pagamentos e planos.  
-- 🔗 [**Dashboard Admin**](#) – Painel moderno em Laravel + Bootstrap.  
-- 🔗 [**Portfolio**](#) – Meu site pessoal com Flask + Frontend custom.  
 
 ---
 
