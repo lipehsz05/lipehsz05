@@ -1,23 +1,23 @@
-name: GitHub-3D-Contrib
+name: Push Changes
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # Atualiza todo dia à meia-noite
-  workflow_dispatch:      # Permite rodar manualmente
+  push:
+    branches: [ main ]
 
 jobs:
-  build:
+  push:
     runs-on: ubuntu-latest
-    name: Generate 3D Contribution
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v3
         with:
-          username: lipehsz05
-      - name: Commit & Push
+          persist-credentials: false  # importante
+      - name: Make Changes
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "github-actions"
-          git add -A .
-          git commit -m "generated"
-          git push
+          echo "Alguma mudança" >> file.txt
+          git add file.txt
+          git commit -m "Update file.txt"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
