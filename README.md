@@ -54,7 +54,7 @@
 ### 🐍 Contribuições
 <div align="center">
   
-  ![Snake animation](https://github.com/lipehsz/lipehsz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lipehsz05/lipehsz05/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
