@@ -14,23 +14,62 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Laravel" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Laravel-Dark.svg">
+  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg">
   <img align="center" alt="Discord Bots" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DiscordBots.svg">
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Bootstrap.svg">
 </div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lipehsz&show_icons=true&theme=radical&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipehsz&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div align="center">
+  <img height="160em" src="https://streak-stats.demolab.com/?user=lipehsz&theme=radical&hide_border=false"/>
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+- 🔗 [**Bot Manager**](#) – Sistema multi-bot com gestão de pagamentos e planos.  
+- 🔗 [**Dashboard Admin**](#) – Painel moderno em Laravel + Bootstrap.  
+- 🔗 [**Portfolio**](#) – Meu site pessoal com Flask + Frontend custom.  
 
 ---
 
 ### 🌐 Onde me encontrar
 
-<div> 
-  <a href="https://instagram.com/lipehsz" target="_blank">
+<div align="center"> 
+  <a href="https://instagram.com/lipehsz" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:ftsu2570@gmail.com">
+  <a href="mailto:ftsu2570@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/lipehsz" target="_blank">
+  <a href="https://www.linkedin.com/in/lipehsz" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
 </div>
+
+---
+
+### 🐍 Contribuições
+<div align="center">
+  
+  ![Snake animation](https://github.com/lipehsz/lipehsz/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+### 🏷️ Badges Extras
+- 💻 Sempre aprendendo novas tecnologias  
+- 🌍 Aberto a colaborações em projetos open-source  
+- ⚡ Automação e bots são minha praia  
+
