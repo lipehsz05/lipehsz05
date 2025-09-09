@@ -54,7 +54,7 @@
 ### 🐍 Contribuições
 <div align="center">
   
-  ![snake gif](https://github.com/lipehsz05/lipehsz05/blob/output/github-contribution-grid-snake.svg)
+  ![3D Contributions](https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg)
 
 </div>
 
