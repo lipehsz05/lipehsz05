@@ -51,15 +51,6 @@
 
 ---
 
-### 🐍 Contribuições
-<div align="center">
-  
-  ![3D Contributions](https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/profile-night-rainbow.svg)
-
-</div>
-
----
-
 ### 🏷️ Badges Extras
 - 💻 Sempre aprendendo novas tecnologias  
 - 🌍 Aberto a colaborações em projetos open-source  
