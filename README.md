@@ -116,7 +116,7 @@ const felipe = {
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/lipehsz05/lipehsz05/output/snake.svg" alt="Snake animation" />
   
 </div>
 
