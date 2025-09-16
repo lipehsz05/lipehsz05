@@ -4,9 +4,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/lipehsz05/lipehsz05/assets/your-image-id/header.png" alt="Header" width="100%"/>
-</div>
 
 <br>
 
@@ -109,7 +106,7 @@ const felipe = {
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercs.vercel.app/?username=lipehsz05&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=lipehsz05&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
   
 </div>
 
@@ -119,7 +116,7 @@ const felipe = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/lipehsz05/lipehsz05/blob/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lipehsz05&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20Contribuições" alt="Activity Graph" />
   
 </div>
 
