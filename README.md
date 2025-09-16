@@ -99,11 +99,11 @@ interface Felipe {
 
 <div align="center">
 
-**🔭 Trabalhando em:** Projetos fullstack com Laravel e Node.js  
-**🌱 Aprendendo:** React e novas tecnologias  
-**👯 Colaborando em:** Projetos open-source interessantes  
-**💬 Pergunte-me sobre:** Laravel, Node.js, PHP, JavaScript  
-**⚡ Especialidade:** Desenvolvimento de bots e automação
+**🔭 Trabalhando em:** Projetos fullstack com Laravel e Node.js.
+**🌱 Aprendendo:** React e novas tecnologias.
+**👯 Colaborando em:** Projetos open-source interessantes.
+**💬 Pergunte-me sobre:** Laravel, Node.js, PHP, JavaScript.
+**⚡ Especialidade:** Desenvolvimento de bots sites e automações.
 
 </div>
 
