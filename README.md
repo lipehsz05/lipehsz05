@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com/?user=lipehsz05&theme=radical&hide_border=false"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=lipehsz05&theme=radical&hide_border=false"/>
 </div>
 
 ---
