@@ -1,4 +1,4 @@
-<div align="center">
+    <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Felipe+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;Apaixonado+por+c%C3%B3digo+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </div>
 
@@ -64,10 +64,10 @@ interface Felipe {
 </div>
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lipehsz05&theme=radical&hide_border=true&background=0a0a0a&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=ffffff&dates=ffffff"/>
-
+  
+  <img height="160em" src="https://streak-stats.demolab.com/?user=lipehsz05&theme=radical&hide_border=true&background=0a0a0a&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=ffffff&dates=ffffff&cache_seconds=1800"/>
 </div>
+
 
 
 ---
