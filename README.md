@@ -116,7 +116,7 @@ const felipe = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/lipehsz05/lipehsz05/blob/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
   
 </div>
 
