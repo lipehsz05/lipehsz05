@@ -36,19 +36,19 @@ interface Felipe {
 
 **Linguagens & Frameworks**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,laravel,nodejs" alt="Languages" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=js,python,php,laravel,nodejs" alt="Languages" style="margin: 8px;" />
 
 **Frontend & Design**
 <br>
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,bootstrap" alt="Frontend" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend" style="margin: 8px;" />
 
 **Backend & Database**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,express" alt="Backend" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="Database" style="margin: 8px;" />
 
 **Ferramentas & DevOps**
 <br>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,aws" alt="Tools" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=git,aws" alt="Tools" style="margin: 8px;" />
 
 </div>
 
@@ -87,9 +87,9 @@ interface Felipe {
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/lipehsz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lipehsz)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ftsu2570@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lipehsz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lipehsz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ftsu2570@gmail.com)
 
 </div>
 
@@ -100,10 +100,10 @@ interface Felipe {
 <div align="center">
 
 **🔭 Trabalhando em:** Projetos fullstack com Laravel e Node.js  
-**🌱 Aprendendo:** Novas tecnologias e frameworks modernos  
+**🌱 Aprendendo:** React e novas tecnologias  
 **👯 Colaborando em:** Projetos open-source interessantes  
-**💬 Pergunte-me sobre:** Laravel, Node.js, Bots, Frontend  
-**⚡ Fato divertido:** Automação e bots são minha paixão! 🤖
+**💬 Pergunte-me sobre:** Laravel, Node.js, PHP, JavaScript  
+**⚡ Especialidade:** Desenvolvimento de bots e automação
 
 </div>
 
@@ -111,7 +111,7 @@ interface Felipe {
 
 <div align="center">
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:0099ff&height=65&section=footer)
   
   **"Código é poesia em movimento"** ✨
   
