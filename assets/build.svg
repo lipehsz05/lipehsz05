@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="497" viewBox="0 0 1280 497" role="img" aria-labelledby="t d">
+  <title id="t">O que eu construo</title>
+  <desc id="d">Bots e automações: Bots para Telegram, WhatsApp e Discord, com painéis de gestão. (Python · Node.js · Telegraf). Pagamentos via PIX: Cobrança com liberação automática de acesso e controle de assinaturas. (Mercado Pago · PushinPay). SaaS e painéis: Sistemas web multi-tenant e painéis administrativos. (Laravel · PHP · MySQL). Aplicações web: Front e back em TypeScript, do banco de dados à interface. (Next.js · Prisma · Tailwind). Apps mobile: Apps para Android e iOS, incluindo projetos white-label. (React Native · Expo · Flutter). IA aplicada: Atendimento e automações com modelos de linguagem via API. (OpenAI API · bots)</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#818CF8" stop-opacity="0.45"/>
+      <stop offset="0.45" stop-color="#f0f6fc" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#f0f6fc" stop-opacity="0.08"/>
+    </linearGradient>
+    <style>
+      text { font-family: "Segoe UI", Inter, -apple-system, Helvetica, Arial, sans-serif; }
+      .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, Menlo, monospace; }
+      .title { font-size: 25px; font-weight: 600; fill: #f1f5f9; letter-spacing: -0.3px; }
+      .desc { font-size: 17px; fill: #94a3b8; }
+      .tags { font-size: 13px; letter-spacing: 0.3px; }
+      .num { font-size: 13px; fill: #475569; }
+    </style>
+  </defs>
+  <clipPath id="c0"><rect x="0" y="0" width="410" height="236" rx="18"/></clipPath>
+  <g>
+    <rect x="0" y="0" width="410" height="236" rx="18" fill="#0f131b"/>
+    <circle cx="40" cy="20" r="220" fill="#38BDF8" fill-opacity="0.07" clip-path="url(#c0)"/>
+    <rect x="0.75" y="0.75" width="408.5" height="234.5" rx="17.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+    <rect x="28" y="28" width="48" height="48" rx="12" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <g transform="translate(40 40)" fill="none" stroke="#38BDF8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2M20 14h2M15 13v2M9 13v2"/></g>
+    <text x="382" y="48" text-anchor="end" class="mono num">01</text>
+    <text x="28" y="122" class="title">Bots e automações</text>
+    <text x="28" y="156" class="desc">Bots para Telegram, WhatsApp e</text>
+    <text x="28" y="180" class="desc">Discord, com painéis de gestão.</text>
+    <text x="28" y="212" class="mono tags" fill="#38BDF8">Python · Node.js · Telegraf</text>
+  </g>
+  <clipPath id="c1"><rect x="435" y="0" width="410" height="236" rx="18"/></clipPath>
+  <g>
+    <rect x="435" y="0" width="410" height="236" rx="18" fill="#0f131b"/>
+    <circle cx="475" cy="20" r="220" fill="#2DD4BF" fill-opacity="0.07" clip-path="url(#c1)"/>
+    <rect x="435.75" y="0.75" width="408.5" height="234.5" rx="17.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+    <rect x="463" y="28" width="48" height="48" rx="12" fill="#2DD4BF" fill-opacity="0.12" stroke="#2DD4BF" stroke-opacity="0.45"/>
+    <g transform="translate(475 40)" fill="none" stroke="#2DD4BF" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="14" x="2" y="5" rx="2"/><line x1="2" x2="22" y1="10" y2="10"/></g>
+    <text x="817" y="48" text-anchor="end" class="mono num">02</text>
+    <text x="463" y="122" class="title">Pagamentos via PIX</text>
+    <text x="463" y="156" class="desc">Cobrança com liberação automática</text>
+    <text x="463" y="180" class="desc">de acesso e controle de assinaturas.</text>
+    <text x="463" y="212" class="mono tags" fill="#2DD4BF">Mercado Pago · PushinPay</text>
+  </g>
+  <clipPath id="c2"><rect x="870" y="0" width="410" height="236" rx="18"/></clipPath>
+  <g>
+    <rect x="870" y="0" width="410" height="236" rx="18" fill="#0f131b"/>
+    <circle cx="910" cy="20" r="220" fill="#F472B6" fill-opacity="0.07" clip-path="url(#c2)"/>
+    <rect x="870.75" y="0.75" width="408.5" height="234.5" rx="17.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+    <rect x="898" y="28" width="48" height="48" rx="12" fill="#F472B6" fill-opacity="0.12" stroke="#F472B6" stroke-opacity="0.45"/>
+    <g transform="translate(910 40)" fill="none" stroke="#F472B6" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect width="7" height="9" x="3" y="3" rx="1"/><rect width="7" height="5" x="14" y="3" rx="1"/><rect width="7" height="9" x="14" y="12" rx="1"/><rect width="7" height="5" x="3" y="16" rx="1"/></g>
+    <text x="1252" y="48" text-anchor="end" class="mono num">03</text>
+    <text x="898" y="122" class="title">SaaS e painéis</text>
+    <text x="898" y="156" class="desc">Sistemas web multi-tenant e</text>
+    <text x="898" y="180" class="desc">painéis administrativos.</text>
+    <text x="898" y="212" class="mono tags" fill="#F472B6">Laravel · PHP · MySQL</text>
+  </g>
+  <clipPath id="c3"><rect x="0" y="261" width="410" height="236" rx="18"/></clipPath>
+  <g>
+    <rect x="0" y="261" width="410" height="236" rx="18" fill="#0f131b"/>
+    <circle cx="40" cy="281" r="220" fill="#818CF8" fill-opacity="0.07" clip-path="url(#c3)"/>
+    <rect x="0.75" y="261.75" width="408.5" height="234.5" rx="17.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+    <rect x="28" y="289" width="48" height="48" rx="12" fill="#818CF8" fill-opacity="0.12" stroke="#818CF8" stroke-opacity="0.45"/>
+    <g transform="translate(40 301)" fill="none" stroke="#818CF8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></g>
+    <text x="382" y="309" text-anchor="end" class="mono num">04</text>
+    <text x="28" y="383" class="title">Aplicações web</text>
+    <text x="28" y="417" class="desc">Front e back em TypeScript,</text>
+    <text x="28" y="441" class="desc">do banco de dados à interface.</text>
+    <text x="28" y="473" class="mono tags" fill="#818CF8">Next.js · Prisma · Tailwind</text>
+  </g>
+  <clipPath id="c4"><rect x="435" y="261" width="410" height="236" rx="18"/></clipPath>
+  <g>
+    <rect x="435" y="261" width="410" height="236" rx="18" fill="#0f131b"/>
+    <circle cx="475" cy="281" r="220" fill="#A78BFA" fill-opacity="0.07" clip-path="url(#c4)"/>
+    <rect x="435.75" y="261.75" width="408.5" height="234.5" rx="17.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+    <rect x="463" y="289" width="48" height="48" rx="12" fill="#A78BFA" fill-opacity="0.12" stroke="#A78BFA" stroke-opacity="0.45"/>
+    <g transform="translate(475 301)" fill="none" stroke="#A78BFA" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/></g>
+    <text x="817" y="309" text-anchor="end" class="mono num">05</text>
+    <text x="463" y="383" class="title">Apps mobile</text>
+    <text x="463" y="417" class="desc">Apps para Android e iOS,</text>
+    <text x="463" y="441" class="desc">incluindo projetos white-label.</text>
+    <text x="463" y="473" class="mono tags" fill="#A78BFA">React Native · Expo · Flutter</text>
+  </g>
+  <clipPath id="c5"><rect x="870" y="261" width="410" height="236" rx="18"/></clipPath>
+  <g>
+    <rect x="870" y="261" width="410" height="236" rx="18" fill="#0f131b"/>
+    <circle cx="910" cy="281" r="220" fill="#FBBF24" fill-opacity="0.07" clip-path="url(#c5)"/>
+    <rect x="870.75" y="261.75" width="408.5" height="234.5" rx="17.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+    <rect x="898" y="289" width="48" height="48" rx="12" fill="#FBBF24" fill-opacity="0.12" stroke="#FBBF24" stroke-opacity="0.45"/>
+    <g transform="translate(910 301)" fill="none" stroke="#FBBF24" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></g>
+    <text x="1252" y="309" text-anchor="end" class="mono num">06</text>
+    <text x="898" y="383" class="title">IA aplicada</text>
+    <text x="898" y="417" class="desc">Atendimento e automações com</text>
+    <text x="898" y="441" class="desc">modelos de linguagem via API.</text>
+    <text x="898" y="473" class="mono tags" fill="#FBBF24">OpenAI API · bots</text>
+  </g>
+</svg>

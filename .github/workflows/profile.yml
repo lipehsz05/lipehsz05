@@ -1,0 +1,44 @@
+name: Atualizar perfil
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # a cada 12 horas
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Snake de contribuições
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#818cf8&color_dots=#161b22,#312e81,#4338ca,#6366f1,#a5b4fc
+            dist/snake-light.svg?color_snake=#4f46e5&color_dots=#ebedf0,#c7d2fe,#a5b4fc,#6366f1,#4338ca
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Cartão de estatísticas
+        run: node scripts/stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
